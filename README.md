@@ -2,7 +2,8 @@
 
 I'm Rrrafi, a student of SMKN 4 Bandung in software engineering 🏫. I'm more likely to be interested in frontend development.
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div class="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/">
@@ -14,6 +15,10 @@ I'm Rrrafi, a student of SMKN 4 Bandung in software engineering 🏫. I'm more l
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=rrraf1&style=flat-square&color=blue" alt=""/>
+</div>
+
+
+
 
 <h1>
   Hellooo

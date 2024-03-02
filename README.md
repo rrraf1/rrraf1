@@ -17,5 +17,5 @@
   Hellooo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engineering 🏫. 
+My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engineering 🏫. </br>
 - I'm more likely to be interested in frontend development.

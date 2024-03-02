@@ -14,3 +14,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+### 👨‍💻: About Me :
+I am a student of SMKN 4 Bandung in software engineering 🏫
+- I'm more likely to be interested in frontend

@@ -1,7 +1,3 @@
-# Hellooo 👋
-
-I'm Rrrafi, a student of SMKN 4 Bandung in software engineering 🏫. I'm more likely to be interested in frontend development.
-
 <div class="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
@@ -17,10 +13,8 @@ I'm Rrrafi, a student of SMKN 4 Bandung in software engineering 🏫. I'm more l
 <img src="https://komarev.com/ghpvc/?username=rrraf1&style=flat-square&color=blue" alt=""/>
 </div>
 
-
-
-
 <h1>
   Hellooo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engineering 🏫. I'm more likely to be interested in frontend development.
 </h1>

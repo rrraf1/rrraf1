@@ -19,3 +19,5 @@
 </h1>
 My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engineering 🏫 </br>
 - I'm more likely to be interested in frontend development.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WY3WtZXPUl8?si=Eog9h6_cMdfS9Ug0&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

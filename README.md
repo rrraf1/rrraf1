@@ -18,6 +18,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engineering 🏫 </br>
-- I'm more likely to be interested in frontend development.
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WY3WtZXPUl8?si=Eog9h6_cMdfS9Ug0&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+- I'm more likely to be interested in frontend development 🖌️
+- One of the teachers 👨‍🏫 in the school's technology-based extracurricular program, ORBIT

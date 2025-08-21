@@ -15,4 +15,6 @@
 </h1>
 My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engineering 🏫 </br> </br>
 - Programmer 🖌️ </br>
-- One of the teachers 👨‍🏫 in the school's technology-based extracurricular program, ORBIT
+- One of the teachers 👨‍🏫 in the school's technology-based extracurricular program, ORBIT </br>
+- Fullstack Engineer (1 years experience & focusing in backend)
+- Web Scraping

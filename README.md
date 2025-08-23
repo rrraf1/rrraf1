@@ -19,6 +19,7 @@ My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engi
 - Fullstack Engineer (1 years experience & focusing in backend)
 - Web Scraping
 
+</br>
 🌠 Please visit my LinkedIn profile to learn more about me.
 
 <h2> &nbsp;Some Tools I Have Used and Learned</h2>

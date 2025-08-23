@@ -20,9 +20,10 @@ My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engi
 - Web Scraping
 
 </br>
-<div>
-<p>🌠 Please visit my LinkedIn profile to learn more about me.</p>
+<div style="margin-top: 20px;">
+  <p>🌠 Please visit my LinkedIn profile to learn more about me.</p>
 </div>
+
 
 <h2> &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">

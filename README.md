@@ -49,5 +49,6 @@ My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="bash" width="45" height="45"/>
-</br>
+</div>
+</br></br>
   <p>🌠 Please visit my LinkedIn profile to learn more about me.</p>

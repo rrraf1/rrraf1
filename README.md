@@ -20,7 +20,7 @@ My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engi
 - Web Scraping
 
 </br>
-🌠 Please visit my LinkedIn profile to learn more about me.
+<p>🌠 Please visit my LinkedIn profile to learn more about me.</p>
 
 <h2> &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -32,7 +32,6 @@ My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="bash" width="45" height="45"/>
 </div>
-</br>
 
 <h3>Backend</h3>
 <div>
@@ -40,14 +39,12 @@ My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="bash" width="45" height="45"/>
 </div>
-</br>
 
 <h3>Database</h3>
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="bash" width="45" height="45"/>
 </div>
-</br>
 
 <h3>Other</h3>
 <div>
@@ -55,4 +52,3 @@ My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="bash" width="45" height="45"/>
-</div>

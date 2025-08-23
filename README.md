@@ -13,9 +13,9 @@
   Hellooo
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-My name is Rafi Rizqullah Ramadhan, a student of SMKN 4 Bandung in software engineering 🏫 </br> </br>
+My name is Rafi Rizqullah Ramadhan, Fullstack Software Engineer experienced in efficient backend development with Golang & Express, and interactive frontend using React & Vue.</br> </br>
 - Programmer 🖌️ </br>
-- One of the teachers 👨‍🏫 in the school's technology-based extracurricular program, ORBIT </br>
+- Machine Learning Division Leader 👨‍🏫 in ORBIT, the technology-based extracurricular program at my high school.</br>
 - Fullstack Engineer (1 years experience & focusing in backend)
 - Web Scraping
 

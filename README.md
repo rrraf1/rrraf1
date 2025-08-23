@@ -16,8 +16,8 @@
 My name is Rafi Rizqullah Ramadhan, Fullstack Software Engineer experienced in efficient backend development with Golang & Express, and interactive frontend using React & Vue.</br> </br>
 - Programmer 🖌️ </br>
 - Machine Learning Division Leader 👨‍🏫 in ORBIT, the technology-based extracurricular program at my high school.</br>
-- Fullstack Engineer (1 years experience & focusing in backend)
-- Web Scraping
+- Fullstack Engineer (1 years experience & focusing in backend).</br>
+- Web Scraping.
 
 <h2> &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
